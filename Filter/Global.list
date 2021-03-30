@@ -178,4 +178,5 @@ DOMAIN,beta.music.apple.com,PROXY
 # ------
 # > Others
 DOMAIN-SUFFIX,bing.com,PROXY
+DOMAIN-SUFFIX,azureedge.net,PROXY
 DOMAIN,testflight.apple.com,PROXY
