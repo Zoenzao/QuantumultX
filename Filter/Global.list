@@ -1,172 +1,172 @@
 # (DNS Cache Pollution)
 # > Amazon
-DOMAIN-SUFFIX,amazon.co.jp,PROXY
-DOMAIN,d3c33hcgiwev3.cloudfront.net,PROXY
-DOMAIN,payments-jp.amazon.com,PROXY
-DOMAIN,s3-ap-northeast-1.amazonaws.com,PROXY
-DOMAIN,s3-ap-southeast-2.amazonaws.com,PROXY
+DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN,d3c33hcgiwev3.cloudfront.net
+DOMAIN,payments-jp.amazon.com
+DOMAIN,s3-ap-northeast-1.amazonaws.com
+DOMAIN,s3-ap-southeast-2.amazonaws.com
 # > Dropbox
-DOMAIN-SUFFIX,dropbox.com,PROXY
-DOMAIN-SUFFIX,dropboxapi.com,PROXY
-DOMAIN-SUFFIX,dropboxusercontent.com,PROXY
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxusercontent.com
 # > Facebook
-DOMAIN-SUFFIX,cdninstagram.com,PROXY
-DOMAIN-SUFFIX,facebook.com,PROXY
-DOMAIN-SUFFIX,facebook.net,PROXY
-DOMAIN-SUFFIX,fb.com,PROXY
-DOMAIN-SUFFIX,fb.me,PROXY
-DOMAIN-SUFFIX,fbaddins.com,PROXY
-DOMAIN-SUFFIX,fbcdn.net,PROXY
-DOMAIN-SUFFIX,fbsbx.com,PROXY
-DOMAIN-SUFFIX,fbworkmail.com,PROXY
-DOMAIN-SUFFIX,instagram.com,PROXY
-DOMAIN-SUFFIX,m.me,PROXY
-DOMAIN-SUFFIX,messenger.com,PROXY
-DOMAIN-SUFFIX,oculus.com,PROXY
-DOMAIN-SUFFIX,oculuscdn.com,PROXY
-DOMAIN-SUFFIX,rocksdb.org,PROXY
-DOMAIN-SUFFIX,whatsapp.com,PROXY
-DOMAIN-SUFFIX,whatsapp.net,PROXY
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbaddins.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbworkmail.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
 # > Github
-DOMAIN-SUFFIX,github.com,PROXY
-DOMAIN-SUFFIX,github.io,PROXY
-DOMAIN-SUFFIX,githubusercontent.com,PROXY
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubusercontent.com
 # > Google
-DOMAIN-SUFFIX,appspot.com,PROXY
-DOMAIN-SUFFIX,blogger.com,PROXY
-DOMAIN-SUFFIX,getoutline.org,PROXY
-DOMAIN-SUFFIX,gvt0.com,PROXY
-DOMAIN-SUFFIX,gvt3.com,PROXY
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com,PROXY
-DOMAIN-SUFFIX,ytimg.com,PROXY
-DOMAIN-KEYWORD,google,PROXY
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,getoutline.org
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,google
 # > YouTube
-DOMAIN-SUFFIX,googlevideo.com,PROXY
-DOMAIN-SUFFIX,youtube.com,PROXY
-DOMAIN-SUFFIX,ytimg.com,PROXY
-DOMAIN,youtubei.googleapis.com,PROXY
-DOMAIN,yt3.ggpht.com,PROXY
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
 # > Microsoft
-DOMAIN-SUFFIX,aka.ms,PROXY
-DOMAIN-SUFFIX,onedrive.live.com,PROXY
-DOMAIN-SUFFIX,streaming.mediaservices.windows.net,PROXY
-DOMAIN,assets1.xboxlive.com,PROXY
-DOMAIN,assets2.xboxlive.com,PROXY
-DOMAIN,az416426.vo.msecnd.net,PROXY
-DOMAIN,az668014.vo.msecnd.net,PROXY
+DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,streaming.mediaservices.windows.net
+DOMAIN,assets1.xboxlive.com
+DOMAIN,assets2.xboxlive.com
+DOMAIN,az416426.vo.msecnd.net
+DOMAIN,az668014.vo.msecnd.net
 # > Pornhub
-DOMAIN-SUFFIX,phncdn.com,PROXY
-DOMAIN-SUFFIX,phprcdn.com,PROXY
-DOMAIN-SUFFIX,pornhub.com,PROXY
-DOMAIN-SUFFIX,pornhubpremium.com,PROXY
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
 # > Reddit
-DOMAIN-SUFFIX,redd.it,PROXY
-DOMAIN-SUFFIX,reddit.com,PROXY
-DOMAIN-SUFFIX,redditmedia.com,PROXY
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
 # > Twitter
-DOMAIN-SUFFIX,pscp.tv,PROXY
-DOMAIN-SUFFIX,periscope.tv,PROXY
-DOMAIN-SUFFIX,t.co,PROXY
-DOMAIN-SUFFIX,twimg.co,PROXY
-DOMAIN-SUFFIX,twimg.com,PROXY
-DOMAIN-SUFFIX,twitpic.com,PROXY
-DOMAIN-SUFFIX,twitter.com,PROXY
-DOMAIN-SUFFIX,vine.co,PROXY
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,vine.co
 # > Wikimedia Foundation
-DOMAIN-SUFFIX,wikileaks.org,PROXY
-DOMAIN-SUFFIX,wikimapia.org,PROXY
-DOMAIN-SUFFIX,wikimedia.org,PROXY
-DOMAIN-SUFFIX,wikinews.org,PROXY
-DOMAIN-SUFFIX,wikipedia.org,PROXY
-DOMAIN-SUFFIX,wikiquote.org,PROXY
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimapia.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
 # > Others
-DOMAIN-SUFFIX,abc.com,PROXY
-DOMAIN-SUFFIX,abc.net.au,PROXY
-DOMAIN-SUFFIX,bandwagonhost.com,PROXY
-DOMAIN-SUFFIX,bbc.com,PROXY
-DOMAIN-SUFFIX,bloomberg.cn,PROXY
-DOMAIN-SUFFIX,bloomberg.com,PROXY
-DOMAIN-SUFFIX,businessinsider.com,PROXY
-DOMAIN-SUFFIX,cbc.ca,PROXY
-DOMAIN-SUFFIX,hitoradio-hichannel.cdn.hinet.net,PROXY
-DOMAIN-SUFFIX,javmost.com,PROXY
-DOMAIN-SUFFIX,merlinblog.xyz,PROXY
-DOMAIN-SUFFIX,mobile01.com,PROXY
-DOMAIN-SUFFIX,live.akamaized.net,PROXY
-DOMAIN-SUFFIX,nbcnews.com,PROXY
-DOMAIN-SUFFIX,pchome.com.tw,PROXY
-DOMAIN-SUFFIX,rthklive1-lh.akamaihd.net,PROXY
-DOMAIN-SUFFIX,rthkaudio1-lh.akamaihd.net,PROXY
-DOMAIN-SUFFIX,rthkaudio2-lh.akamaihd.net,PROXY
-DOMAIN-SUFFIX,time.com,PROXY
-DOMAIN-SUFFIX,technews.tw,PROXY
-DOMAIN-SUFFIX,91porn.com,PROXY
-DOMAIN-SUFFIX,9txs.org,PROXY
+DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,abc.net.au
+DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bloomberg.cn
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,businessinsider.com
+DOMAIN-SUFFIX,cbc.ca
+DOMAIN-SUFFIX,hitoradio-hichannel.cdn.hinet.net
+DOMAIN-SUFFIX,javmost.com
+DOMAIN-SUFFIX,merlinblog.xyz
+DOMAIN-SUFFIX,mobile01.com
+DOMAIN-SUFFIX,live.akamaized.net
+DOMAIN-SUFFIX,nbcnews.com
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,rthklive1-lh.akamaihd.net
+DOMAIN-SUFFIX,rthkaudio1-lh.akamaihd.net
+DOMAIN-SUFFIX,rthkaudio2-lh.akamaihd.net
+DOMAIN-SUFFIX,time.com
+DOMAIN-SUFFIX,technews.tw
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,9txs.org
 
 # (IP Blackhole)
 # > Facebook
-IP-CIDR,31.13.24.0/21,PROXY
-IP-CIDR,31.13.64.0/18,PROXY
-IP-CIDR,45.64.40.0/22,PROXY
-IP-CIDR,66.220.144.0/20,PROXY
-IP-CIDR,69.63.176.0/20,PROXY
-IP-CIDR,69.171.224.0/19,PROXY
-IP-CIDR,74.119.76.0/22,PROXY
-IP-CIDR,103.4.96.0/22,PROXY
-IP-CIDR,129.134.0.0/17,PROXY
-IP-CIDR,157.240.0.0/17,PROXY
-IP-CIDR,173.252.64.0/19,PROXY
-IP-CIDR,173.252.96.0/19,PROXY
-IP-CIDR,179.60.192.0/22,PROXY
-IP-CIDR,185.60.216.0/22,PROXY
-IP-CIDR,204.15.20.0/22,PROXY
+IP-CIDR,31.13.24.0/21
+IP-CIDR,31.13.64.0/18
+IP-CIDR,45.64.40.0/22
+IP-CIDR,66.220.144.0/20
+IP-CIDR,69.63.176.0/20
+IP-CIDR,69.171.224.0/19
+IP-CIDR,74.119.76.0/22
+IP-CIDR,103.4.96.0/22
+IP-CIDR,129.134.0.0/17
+IP-CIDR,157.240.0.0/17
+IP-CIDR,173.252.64.0/19
+IP-CIDR,173.252.96.0/19
+IP-CIDR,179.60.192.0/22
+IP-CIDR,185.60.216.0/22
+IP-CIDR,204.15.20.0/22
 # > Google
-IP-CIDR,35.190.247.0/24,PROXY
-IP-CIDR,64.233.160.0/19,PROXY
-IP-CIDR,66.102.0.0/20,PROXY
-IP-CIDR,66.249.80.0/20,PROXY
-IP-CIDR,72.14.192.0/18,PROXY
-IP-CIDR,74.125.0.0/16,PROXY
-IP-CIDR,108.177.8.0/21,PROXY
-IP-CIDR,172.217.0.0/16,PROXY
-IP-CIDR,173.194.0.0/16,PROXY
-IP-CIDR,209.85.128.0/17,PROXY
-IP-CIDR,216.58.192.0/19,PROXY
-IP-CIDR,216.239.32.0/19,PROXY
+IP-CIDR,35.190.247.0/24
+IP-CIDR,64.233.160.0/19
+IP-CIDR,66.102.0.0/20
+IP-CIDR,66.249.80.0/20
+IP-CIDR,72.14.192.0/18
+IP-CIDR,74.125.0.0/16
+IP-CIDR,108.177.8.0/21
+IP-CIDR,172.217.0.0/16
+IP-CIDR,173.194.0.0/16
+IP-CIDR,209.85.128.0/17
+IP-CIDR,216.58.192.0/19
+IP-CIDR,216.239.32.0/19
 # > Twitter
-IP-CIDR,69.195.160.0/19,PROXY
-IP-CIDR,104.244.42.0/21,PROXY
-IP-CIDR,192.133.76.0/22,PROXY
-IP-CIDR,199.16.156.0/22,PROXY
-IP-CIDR,199.59.148.0/22,PROXY
-IP-CIDR,199.96.56.0/21,PROXY
-IP-CIDR,202.160.128.0/22,PROXY
-IP-CIDR,209.237.192.0/19,PROXY
+IP-CIDR,69.195.160.0/19
+IP-CIDR,104.244.42.0/21
+IP-CIDR,192.133.76.0/22
+IP-CIDR,199.16.156.0/22
+IP-CIDR,199.59.148.0/22
+IP-CIDR,199.96.56.0/21
+IP-CIDR,202.160.128.0/22
+IP-CIDR,209.237.192.0/19
 # > Wikimedia
-IP-CIDR,91.198.174.0/24,PROXY
-IP-CIDR,103.102.166.0/24,PROXY
-IP-CIDR,185.15.56.0/22,PROXY
-IP-CIDR,198.35.26.0/23,PROXY
-IP-CIDR,208.80.152.0/22,PROXY
+IP-CIDR,91.198.174.0/24
+IP-CIDR,103.102.166.0/24
+IP-CIDR,185.15.56.0/22
+IP-CIDR,198.35.26.0/23
+IP-CIDR,208.80.152.0/22
 
 # (Region-Restricted Access Denied)
 # ---(Apple)---
 # > Apple URL Shortener
-DOMAIN-SUFFIX,appsto.re,PROXY
+DOMAIN-SUFFIX,appsto.re
 # > iBooks Store download
-DOMAIN,books.itunes.apple.com,PROXY
+DOMAIN,books.itunes.apple.com
 # > App Store Preview
-DOMAIN,apps.apple.com,PROXY
-DOMAIN,itunes.apple.com,PROXY
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
 # > Spotlight
-DOMAIN,api-glb-sea.smoot.apple.com,PROXY
+DOMAIN,api-glb-sea.smoot.apple.com
 # > Look Up
-DOMAIN-SUFFIX,smoot.apple.com,PROXY
-DOMAIN,lookup-api.apple.com,PROXY
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,lookup-api.apple.com
 # > Apple Music Web
-DOMAIN,beta.music.apple.com,PROXY
+DOMAIN,beta.music.apple.com
 # ------
 # > Others
-DOMAIN-SUFFIX,bing.com,PROXY
-DOMAIN-SUFFIX,azureedge.net,PROXY
-DOMAIN,testflight.apple.com,PROXY
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN,testflight.apple.com
