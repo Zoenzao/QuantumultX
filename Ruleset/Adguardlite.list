@@ -1,0 +1,98 @@
+# Advertising
+# > Baidu
+DOMAIN-SUFFIX,duapps.com
+DOMAIN-SUFFIX,cpro.baidu.com
+DOMAIN-SUFFIX,pos.baidu.com
+DOMAIN-SUFFIX,hmma.baidu.com
+DOMAIN,afd.baidu.com
+DOMAIN,als.baidu.com
+DOMAIN,duclick.baidu.com
+DOMAIN,mobads.baidu.com
+DOMAIN,mobads-logs.baidu.com
+DOMAIN,nsclick.baidu.com
+
+# --- (Alibaba) ---
+DOMAIN,tunion-api.m.taobao.com
+DOMAIN,adash.m.taobao.com
+DOMAIN,adashx.m.taobao.com
+# > YOUKU
+DOMAIN-SUFFIX,atm.youku.com
+DOMAIN,ad.mobile.youku.com
+DOMAIN,iyes.youku.com
+DOMAIN,pl.cp31.ott.cibntv.net
+# > AMap
+DOMAIN,optimus-ads.amap.com
+DOMAIN,optimus-ads.amap.com.w.alikunlun.com
+
+# > ByteDance
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN,ad.toutiao.com
+DOMAIN,pangolin.snssdk.com
+
+# > Google
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleadsserving.cn
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN,ads.youtube.com
+
+# > Kuaishou
+DOMAIN-SUFFIX,e.kuaishou.com
+DOMAIN,js-ad.a.yximgs.com
+
+# > NetEase
+DOMAIN,ad.bn.netease.com
+DOMAIN,iad.g.163.com
+
+# > PPTV
+DOMAIN,ads.aplus.pptv.com
+DOMAIN,ads.aplusapi.pptv.com
+DOMAIN,asimgs.pplive.cn
+
+# > Tencent
+DOMAIN-SUFFIX,e.qq.com
+DOMAIN-SUFFIX,l.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN,adsmind.apdcdn.tc.qq.com
+DOMAIN,adsmind.gdtimg.com
+DOMAIN,adsmind.tc.qq.com
+DOMAIN,pgdt.gtimg.cn
+DOMAIN,pgdt.ugdtimg.com
+DOMAIN,wa.gtimg.com
+
+# > Koowo
+DOMAIN,g.koowo.com
+DOMAIN,mobilead.kuwo.cn
+DOMAIN,rich.kuwo.cn
+
+# > Ximalaya
+DOMAIN,ad.ximalaya.com
+DOMAIN,adbs.ximalaya.com
+DOMAIN,adse.ximalaya.com
+DOMAIN,adse.wsa.ximalaya.com
+DOMAIN,adbehavior.wsa.ximalaya.com
+DOMAIN,adbehavior.ximalaya.com
+DOMAIN,adsebs.ximalaya.com
+
+# > 广告联盟
+DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,adsmind.ugdtimg.com
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,applovefrom.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,bxmns.com
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,mopub.com
+DOMAIN-SUFFIX,nexage.com
+DOMAIN-SUFFIX,reachmax.cn
+DOMAIN-SUFFIX,alogs.umeng.com
+DOMAIN-SUFFIX,ulogs.umeng.com
+DOMAIN-SUFFIX,uop.umeng.com
+DOMAIN-SUFFIX,alogs.umengcloud.com
+DOMAIN-SUFFIX,ulogs.umengcloud.com
+DOMAIN-SUFFIX,xtgreat.com
+DOMAIN,emma-414870e223.huodonghezi.com
