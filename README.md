@@ -1,5 +1,5 @@
 ## 声明
-自用QuanX配置，仅用于学习测试。
+自用Surge配置，仅用于学习测试。
 
 ## Special thanks to
 
