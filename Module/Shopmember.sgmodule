@@ -1,0 +1,10 @@
+#!name=Unbind JD ShopCard
+#!desc=注销京东店铺会员卡. 点击会员卡直达注销页面
+#!system=ios
+
+[URL Rewrite]
+
+^https:\/\/shopmember\.m\.jd\.com\/shopcard\/\?(venderId=[0-9]+).* https:\/\/shopmember\.m\.jd\.com\/member\/memberCloseAccount\?$1 302
+
+[MITM]
+hostname = %APPEND% shopmember.m.jd.com
