@@ -118,6 +118,7 @@ DOMAIN,beta.music.apple.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN,testflight.apple.com
+DOMAIN-SUFFIX,s3.amazonaws.com
 
 # (Network Jitter)
 # > Apple
