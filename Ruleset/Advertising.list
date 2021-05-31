@@ -53,7 +53,7 @@ DOMAIN-SUFFIX,googletagservices.com
 DOMAIN,ads.youtube.com
 
 # > Kuaishou
-DOMAIN-SUFFIX,e.kuaishou.com
+DOMAIN-SUFFIX,open.e.kuaishou.com
 DOMAIN,js-ad.a.yximgs.com
 
 # > NetEase
