@@ -144,6 +144,7 @@ DOMAIN,books.itunes.apple.com
 DOMAIN,beta.music.apple.com
 # ------
 # > Others
+DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN,testflight.apple.com
