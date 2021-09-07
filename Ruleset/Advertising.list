@@ -117,6 +117,7 @@ DOMAIN,apppv.zol.com.cn
 DOMAIN,pvnapp.zol.com.cn
 
 # > 广告联盟
+DOMAIN-SUFFIX,1rtb.com
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adsmind.ugdtimg.com
